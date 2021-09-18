@@ -1,29 +1,28 @@
-/*
-* {
-  margin: 0px;
-} */
+/* container css*/
 .container {
-  width: 300px;
-  height: 300px;
+  width: 320px;
+  height: 320px;
   background-color: red;
   position: relative;
   border-radius: 5px;
 }
 
+/* vertical box css */
 .box1 {
-  width: 56px;
+  width: 60px;
   height: 200px;
   background-color: white;
   position: absolute;
-  left: 122px;
-  top: 50px;
+  left: 130px;
+  top: 60px;
 }
 
+/* horizontal box css */
 .box2 {
   width: 200px;
-  height: 56px;
+  height: 60px;
   background-color: white;
   position: absolute;
-  top: 122px;
-  left: 50px;
+  top: 130px;
+  left: 60px;
 }
